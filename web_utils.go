@@ -1,4 +1,4 @@
-package go_web
+package main
 
 func GetSomeUrl() string {
 	return "www.google.com"

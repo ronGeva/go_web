@@ -1,3 +1,3 @@
-module github.com/ronGeva/go_web
+module go_web
 
 go 1.18
