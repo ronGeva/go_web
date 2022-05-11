@@ -1,8 +1,8 @@
-package go_web
+package main
 
 import (
 	"fmt"
-	"github.com/ronGeva/go_web/utils"
+	utils "github.com/ronGeva/go_web/utils"
 	"net/http"
 )
 
